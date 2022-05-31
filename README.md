@@ -4,7 +4,7 @@
 ## 👋 Hi, I’m Kubilay Türe.  
   👀 I’m interested in Front-End Web Development.  
   🌱 I’m currently learning HTML, CSS, Javascript.  
-  📫 You can reach me on:  
+  📫 You can reach me at:  
 - [Linkedin](https://linkedin.com/kubilayture)  
 - [Gmail](mailto:kubilayture@gmail.com)  
 - [CodePen](https://codepen.io/cube1774) 
