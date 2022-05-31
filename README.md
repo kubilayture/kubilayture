@@ -1,3 +1,6 @@
+![This is an image](https://github.com/cube1774/Personal-Portfolio-Page/blob/master/images/PersonalPortfolio.png?raw=true)
+
+
 ## 👋 Hi, I’m Kubilay Türe.  
   👀 I’m interested in Front-End Web Development.  
   🌱 I’m currently learning HTML, CSS, Javascript.  
