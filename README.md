@@ -1,9 +1,10 @@
-- ## 👋 Hi, I’m Kubilay.
-- 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
-- 📫 How to reach me: 
-[Linkedin](https://linkedin.com/kubilayture)
-[Gmail](mailto:kubilayture@gmail.com)
+## 👋 Hi, I’m Kubilay Türe.  
+  👀 I’m interested in Front-End Web Development.  
+  🌱 I’m currently learning HTML, CSS, Javascript.  
+  📫 You can reach me on:  
+- [Linkedin](https://linkedin.com/kubilayture)  
+- [Gmail](mailto:kubilayture@gmail.com)  
+- [CodePen](https://codepen.io/cube1774) 
 
 <!---
 cube1774/cube1774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
