@@ -3,7 +3,7 @@
 ## About Me
 I'm a frontend developer with a deep passion for creating seamless and engaging user experiences. My journey in web development is driven by curiosity and a constant desire to learn and innovate. I love transforming complex problems into simple, beautiful, and intuitive designs.
 
-I specialize in Next.js and React.js, building fast, responsive, and scalable applications. Additionally, I have a basic understanding of Express.js, Node.js, and Vue.js, which allows me to contribute to full-stack solutions when needed.
+I specialize in Next.js and React.js, building fast, responsive, and scalable applications. Additionally, I have a basic understanding of Express.js, Node.js and Nest.js, which allows me to contribute to full-stack solutions when needed.
 
 ## 🔧 Technologies & Tools
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
